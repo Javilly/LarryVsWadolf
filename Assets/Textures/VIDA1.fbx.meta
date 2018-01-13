@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 35746ab6f02a6ca4ba0738937fb3494b
+timeCreated: 1456520993
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BAZOOKA.001
+    100002: Camera
+    100004: Cube.001
+    100006: Cube.002
+    100008: Cube.003
+    100010: Cylinder
+    100012: Cylinder.001
+    100014: Cylinder.003
+    100016: Cylinder.006
+    100018: Cylinder.007
+    100020: GRANADA
+    100022: kadis
+    100024: kadis.001
+    100026: kadis.003
+    100028: kadis.004
+    100030: kadis.005
+    100032: kadis.006
+    100034: kaf
+    100036: Lamp
+    100038: Lamp.001
+    100040: Lamp.002
+    100042: Lamp.003
+    100044: NurbsPath
+    100046: Sphere
+    100048: Sphere.001
+    100050: Sphere.002
+    100052: //RootNode
+    400000: BAZOOKA.001
+    400002: Camera
+    400004: Cube.001
+    400006: Cube.002
+    400008: Cube.003
+    400010: Cylinder
+    400012: Cylinder.001
+    400014: Cylinder.003
+    400016: Cylinder.006
+    400018: Cylinder.007
+    400020: GRANADA
+    400022: kadis
+    400024: kadis.001
+    400026: kadis.003
+    400028: kadis.004
+    400030: kadis.005
+    400032: kadis.006
+    400034: kaf
+    400036: Lamp
+    400038: Lamp.001
+    400040: Lamp.002
+    400042: Lamp.003
+    400044: NurbsPath
+    400046: Sphere
+    400048: Sphere.001
+    400050: Sphere.002
+    400052: //RootNode
+    2300000: BAZOOKA.001
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cylinder
+    2300010: Cylinder.001
+    2300012: Cylinder.003
+    2300014: Cylinder.006
+    2300016: Cylinder.007
+    2300018: GRANADA
+    2300020: kadis
+    2300022: kadis.001
+    2300024: kadis.003
+    2300026: kadis.004
+    2300028: kadis.005
+    2300030: kadis.006
+    2300032: kaf
+    2300034: NurbsPath
+    2300036: Sphere
+    2300038: Sphere.001
+    2300040: Sphere.002
+    3300000: BAZOOKA.001
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cylinder
+    3300010: Cylinder.001
+    3300012: Cylinder.003
+    3300014: Cylinder.006
+    3300016: Cylinder.007
+    3300018: GRANADA
+    3300020: kadis
+    3300022: kadis.001
+    3300024: kadis.003
+    3300026: kadis.004
+    3300028: kadis.005
+    3300030: kadis.006
+    3300032: kaf
+    3300034: NurbsPath
+    3300036: Sphere
+    3300038: Sphere.001
+    3300040: Sphere.002
+    4300000: GRANADA
+    4300002: Cube.001
+    4300004: Cube.002
+    4300006: Sphere
+    4300008: Cube.003
+    4300010: Cylinder
+    4300012: Cylinder.001
+    4300014: Cylinder.006
+    4300016: Cylinder.007
+    4300018: kadis
+    4300020: Sphere.001
+    4300022: Sphere.002
+    4300024: kaf
+    4300026: Cylinder.003
+    4300028: kadis.006
+    4300030: NurbsPath
+    4300032: BAZOOKA.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
